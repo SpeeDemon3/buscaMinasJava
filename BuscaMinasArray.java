@@ -57,7 +57,7 @@ public class BuscaMinasArray {
 						}
 					}
 				}
-				// Aviso al usuario y le muestro el numero de minas que hay a su alrrededor
+				// Aviso al usuario y le muestro el numero de minas que hay a su alrededor
 				System.out.println(usuario + " cuidado tienes " + contador + " minas a tu alrededor!!!");
 				System.out.println(); // Añado un salto de linea
 				
