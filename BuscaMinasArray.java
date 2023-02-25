@@ -3,12 +3,8 @@ import java.util.Scanner;
 public class BuscaMinasArray {
 	
 	/*
-	 * BUSCAMINAS
-		•Programa que
-		• Cree un grid de 3 x 4
-		• Después el usuario deberá ir indicando posiciones intentando no encontrar los *.
-		• Se puede ayudar al ususario indicando cuantos * hay a su alrededor.
-	 */
+	* BUSCAMINAS
+	*/
 
 	public static void main (String[] args) {
 		
